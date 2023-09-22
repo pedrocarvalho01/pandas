@@ -25,3 +25,11 @@ h help
 -- import enable libraries
 import pandas as pd
 import numpy as np
+
+
+-- ===========================
+-- ## PYTHON CRASH COURSE
+-- ===========================
+
+
+
